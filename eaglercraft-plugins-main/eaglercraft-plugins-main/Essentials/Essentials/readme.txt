@@ -1,1 +1,0 @@
-edit motd.txt to remove the 'Use /register to protect this username with a password' message
